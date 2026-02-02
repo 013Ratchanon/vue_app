@@ -3,7 +3,7 @@ import { fileURLToPath, URL } from 'node:url'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
-// https://vitejs.dev/config/
+// https://vitejs.dev/configd/
 export default defineConfig({
   base: '/vue-app66/',
   plugins: [vue()],
